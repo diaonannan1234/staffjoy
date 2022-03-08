@@ -1,0 +1,31 @@
+{
+    "created_time": "2022-03-08T08:04:35Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "35",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "config.yaml",
+            "signature": "73166414614035",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "36",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "logback-config.yaml",
+            "signature": "42496053153299",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "34",
+    "modified_time": "2022-03-08T08:04:35Z",
+    "signature": "112954991644179",
+    "version": 3
+}

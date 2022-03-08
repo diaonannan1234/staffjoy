@@ -1,0 +1,21 @@
+{
+    "created_time": "2022-03-08T08:04:35Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "32",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "www-web-canary.yaml",
+            "signature": "85523035524627",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "31",
+    "modified_time": "2022-03-08T08:04:35Z",
+    "signature": "8028940602899",
+    "version": 3
+}

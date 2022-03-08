@@ -1,0 +1,107 @@
+{
+    "created_time": "2022-03-08T08:04:34Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "28",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "account-svc.yaml",
+            "signature": "93314106199571",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "29",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "app-spa.yaml",
+            "signature": "63442608655891",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "30",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "bot-svc.yaml",
+            "signature": "49556979387923",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "33",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "company-svc.yaml",
+            "signature": "110240572313107",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "37",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "email-svc.yaml",
+            "signature": "123280093023763",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "38",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "faraday-svc.yaml",
+            "signature": "102269113011731",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "39",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "myaccount-spa.yaml",
+            "signature": "134528612371987",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "40",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "whoami-svc.yaml",
+            "signature": "130280889716243",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2022-03-08T08:04:35Z",
+            "id": "41",
+            "modified_time": "2022-03-08T08:04:35Z",
+            "name": "www-web.yaml",
+            "signature": "75906603748883",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "canary"
+        },
+        {
+            "name": "config"
+        }
+    ],
+    "id": "27",
+    "modified_time": "2022-03-08T08:04:34Z",
+    "signature": "23396333587986",
+    "version": 3
+}
